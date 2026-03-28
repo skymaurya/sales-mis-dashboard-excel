@@ -40,7 +40,7 @@ The dashboard is designed to support decision-making by providing clear insights
 
 ## 📈 Key Insights
 
-* Sales and profit peak during **Quarter 4 (Oct–Dec)**
+* Sales and profit peak during **Quarter 4 (Oct–Dec)** anad Lowest in the **Quarter 1 (Jan-Mar)**
 * **United States** generates the highest revenue
 * **Technology category** contributes the most to overall sales
 * **Copiers sub-category** generates the highest profit
@@ -79,8 +79,7 @@ The Excel file contains multiple sheets organized as follows:
 
 * **raw_SuperStore data** → Original dataset
 * **clean_SuperStore data** → Cleaned dataset used for analysis
-* **added cols** → Derived columns (Month, Year, etc.)
-* **KPI** → KPI calculations
+* **KPI** → KPI calculations, Monthly Analysis
 * **charts** → Pivot tables and charts
 * **Dashboard** → Final interactive dashboard
 
@@ -112,5 +111,3 @@ The Excel file contains multiple sheets organized as follows:
 * Reporting & Presentation Skills
 
 ---
-
-Interactive Sales MIS Dashboard built using Excel with automation, KPI tracking, and business insight.
